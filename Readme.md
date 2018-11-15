@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BarsForm.cs](./CS/DXPopupMenu_DisplayMode/BarsForm.cs) (VB: [BarsForm.vb](./VB/DXPopupMenu_DisplayMode/BarsForm.vb))
+* [Form1.cs](./CS/DXPopupMenu_DisplayMode/Form1.cs) (VB: [Form1.vb](./VB/DXPopupMenu_DisplayMode/Form1.vb))
+* [RibbonForm.cs](./CS/DXPopupMenu_DisplayMode/RibbonForm.cs) (VB: [RibbonForm.vb](./VB/DXPopupMenu_DisplayMode/RibbonForm.vb))
+* [SimpleForm.cs](./CS/DXPopupMenu_DisplayMode/SimpleForm.cs) (VB: [SimpleForm.vb](./VB/DXPopupMenu_DisplayMode/SimpleForm.vb))
+<!-- default file list end -->
 # How to display DXPopupMenu as a regular menu, popup bar or RibbonMiniToolbar
 
 
