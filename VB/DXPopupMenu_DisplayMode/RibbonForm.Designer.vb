@@ -74,8 +74,8 @@ Namespace DXPopupMenu_DisplayMode
 			Me.barButtonItem1.ButtonStyle = DevExpress.XtraBars.BarButtonStyle.DropDown
 			Me.barButtonItem1.Caption = "barButtonItem1"
 			Me.barButtonItem1.DropDownControl = Me.popupMenu1
-			Me.barButtonItem1.Glyph = My.Resources.SaveAll_32x32
-			Me.barButtonItem1.Id = 1
+            Me.barButtonItem1.Glyph = Resources.SaveAll_32x32
+            Me.barButtonItem1.Id = 1
 			Me.barButtonItem1.Name = "barButtonItem1"
 			' 
 			' popupMenu1

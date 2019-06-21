@@ -1,5 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DXPopupMenu_DisplayMode", "DXPopupMenu_DisplayMode\DXPopupMenu_DisplayMode.vbproj", "{2E3C71B9-9EE3-41DD-B3CA-D9B987DF1C8A}"
 EndProject
 Global
@@ -15,5 +17,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5685842A-99EA-4FD0-AB16-BFF4CBB5627D}
 	EndGlobalSection
 EndGlobal
